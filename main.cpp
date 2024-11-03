@@ -3,7 +3,7 @@ using namespace std;
 
 void greet(string name)
 {
-    cout << "Hello, " << name << "!" << endl;
+    cout << "Hi, " << name << "!" << endl;
 }
 
 int main()
